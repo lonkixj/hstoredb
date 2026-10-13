@@ -1,13 +1,22 @@
 {
   "apps": [
     {
-      "name": "тест",
-      "category": "тест",
-      "rating": 5,0,
-      "size": "1488 МБ",
-      "description": "тест.",
+      "name": "Nova Notes",
+      "category": "Продуктивность",
+      "rating": 4.7,
+      "size": "48 МБ",
+      "description": "Заметки с тегами и быстрым поиском.",
       "icon": "https://raw.githubusercontent.com/lonkixj/hstoredb/main/icons/nova.png",
       "apk": "https://github.com/lonkixj/nova-notes/releases/download/v1.0/nova.apk"
+    },
+    {
+      "name": "Pixel Forge",
+      "category": "Инструменты",
+      "rating": 4.5,
+      "size": "112 МБ",
+      "description": "Редактор пиксель-арта.",
+      "icon": "https://raw.githubusercontent.com/lonkixj/hstoredb/main/icons/pixel.png",
+      "apk": "https://github.com/lonkixj/pixel-forge/releases/download/v2.1/pixel.apk"
     }
   ]
 }
