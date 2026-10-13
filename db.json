@@ -16,20 +16,6 @@
       ]
     },
     {
-      "name": "Pixel Forge",
-      "developer": "Lonkix",
-      "category": "Инструменты",
-      "rating": 4.5,
-      "size": "112 МБ",
-      "version": "2.1",
-      "description": "Редактор пиксель-арта.",
-      "icon": "https://raw.githubusercontent.com/lonkixj/hstoredb/main/icons/pixel.png",
-      "apk": "https://github.com/lonkixj/pixel-forge/releases/download/v2.1/pixel.apk",
-      "screenshots": [
-        "https://raw.githubusercontent.com/lonkixj/hstoredb/main/screenshots/pixel-1.png"
-      ]
-    },
-    {
       "name": "Test",
       "developer": "I",
       "category": "Pornoo",
