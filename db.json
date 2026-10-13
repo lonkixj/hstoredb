@@ -2,21 +2,32 @@
   "apps": [
     {
       "name": "Nova Notes",
+      "developer": "Lonkix",
       "category": "Продуктивность",
       "rating": 4.7,
       "size": "48 МБ",
-      "description": "Заметки с тегами и быстрым поиском.",
+      "version": "1.0",
+      "description": "Заметки с тегами и быстрым поиском.\n\nБез регистрации, всё хранится на устройстве.",
       "icon": "https://raw.githubusercontent.com/lonkixj/hstoredb/main/icons/nova.png",
-      "apk": "https://github.com/lonkixj/nova-notes/releases/download/v1.0/nova.apk"
+      "apk": "https://github.com/lonkixj/nova-notes/releases/download/v1.0/nova.apk",
+      "screenshots": [
+        "https://raw.githubusercontent.com/lonkixj/hstoredb/main/screenshots/nova-1.png",
+        "https://raw.githubusercontent.com/lonkixj/hstoredb/main/screenshots/nova-2.png"
+      ]
     },
     {
       "name": "Pixel Forge",
+      "developer": "Lonkix",
       "category": "Инструменты",
       "rating": 4.5,
       "size": "112 МБ",
+      "version": "2.1",
       "description": "Редактор пиксель-арта.",
       "icon": "https://raw.githubusercontent.com/lonkixj/hstoredb/main/icons/pixel.png",
-      "apk": "https://github.com/lonkixj/pixel-forge/releases/download/v2.1/pixel.apk"
+      "apk": "https://github.com/lonkixj/pixel-forge/releases/download/v2.1/pixel.apk",
+      "screenshots": [
+        "https://raw.githubusercontent.com/lonkixj/hstoredb/main/screenshots/pixel-1.png"
+      ]
     }
   ]
 }
