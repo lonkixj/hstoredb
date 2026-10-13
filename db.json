@@ -1,29 +1,3 @@
 {
-  "apps": [
-    {
-      "name": "Nova Notes",
-      "developer": "Lonkix",
-      "category": "Продуктивность",
-      "rating": 4.7,
-      "size": "48 МБ",
-      "version": "1.0",
-      "description": "Заметки с тегами и быстрым поиском.\n\nБез регистрации, всё хранится на устройстве.",
-      "icon": "https://raw.githubusercontent.com/lonkixj/hstoredb/main/icons/nova.png",
-      "apk": "https://github.com/lonkixj/nova-notes/releases/download/v1.0/nova.apk",
-      "screenshots": [
-        "https://raw.githubusercontent.com/lonkixj/hstoredb/main/screenshots/nova-1.png",
-        "https://raw.githubusercontent.com/lonkixj/hstoredb/main/screenshots/nova-2.png"
-      ]
-    },
-    {
-      "name": "Test",
-      "developer": "I",
-      "category": "Pornoo",
-      "rating": 4,
-      "size": "1 PB",
-      "version": "1.0",
-      "minAndroid": "1488",
-      "description": "Хуй"
-    }
-  ]
+  "apps": []
 }
