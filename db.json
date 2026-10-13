@@ -1,1 +1,13 @@
-
+{
+  "apps": [
+    {
+      "name": "тест",
+      "category": "тест",
+      "rating": 5,0,
+      "size": "1488 МБ",
+      "description": "тест.",
+      "icon": "https://raw.githubusercontent.com/lonkixj/hstoredb/main/icons/nova.png",
+      "apk": "https://github.com/lonkixj/nova-notes/releases/download/v1.0/nova.apk"
+    }
+  ]
+}
