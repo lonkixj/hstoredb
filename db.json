@@ -1,15 +1,3 @@
 {
-  "apps": [
-    {
-      "name": "BoyKissApp",
-      "developer": "Фембой",
-      "category": "Фурри",
-      "rating": 5,
-      "size": "1 МБ",
-      "version": "1.0",
-      "minAndroid": "1.0",
-      "description": "Милый фурри мальчик",
-      "icon": "https://raw.githubusercontent.com/lonkixj/hstoredb/main/icons/1791904648090-01a912450fc7bdb793cfeedcf2b5f358.jpg"
-    }
-  ]
+  "apps": []
 }
